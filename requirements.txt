@@ -1,0 +1,8 @@
+openai
+pymongo
+streamlit
+PyPDF2
+pdfplumber
+uvicorn
+gradio
+fastapi
